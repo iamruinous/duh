@@ -1,5 +1,5 @@
 # Simple Planning
-Version 1.0.1
+Version 1.0.2
 
 Effective planning happens along three time horizons: [short](#short-horizon), [medium](#medium-horizon), and [long](#long-horizon). The time scale is relative to the level of planning that is being done. Planning a portfolio of projects is a different scale than planning an individual product or project. There is some overlap amongst the horizons, however each one has distinct properties. Each horizon also has a corresponding artifact that is beneficial for all the other horizons.
 
