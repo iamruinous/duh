@@ -28,7 +28,7 @@ Artifact: Project Overview, helps constrain the infinite possibilities and sets 
 
 <a name="fuzzy-ideals"></a>**Fuzzy Ideals**–Things that the organization needs to accomplish to be successful.
 
-<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, a list of feature names grouped by In Development, Planned, and Unplanned.
+<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, a list of feature names grouped by In Development, Planned, and Unplanned. The Roadmap shows to others inside and outside the project that you have thought through the major features and can articulate what the result of the project will be.
 
 <a name="shared-vision"></a>**Shared Vision**–A common understanding of what is being created. A simple description or rough sketch of the project that should be repeatable and reproducible by the members of the team.
 
