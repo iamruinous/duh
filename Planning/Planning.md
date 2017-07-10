@@ -1,5 +1,5 @@
 # Simple Planning
-Version 1.0.2
+Version 1.1.0
 
 Effective planning happens along three time horizons: [short](#short-horizon), [medium](#medium-horizon), and [long](#long-horizon). The time scale is relative to the level of planning that is being done. Planning a portfolio of projects is a different scale than planning an individual product or project. There is some overlap amongst the horizons, however each one has distinct properties. Each horizon also has a corresponding artifact that is beneficial for all the other horizons.
 
@@ -28,7 +28,7 @@ Artifact: Project Overview, helps constrain the infinite possibilities and sets 
 
 <a name="fuzzy-ideals"></a>**Fuzzy Ideals**–Things that the organization needs to accomplish to be successful.
 
-<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, a list of feature names grouped by In Development, Planned, and Unplanned. The Roadmap shows to others inside and outside the project that you have thought through the major features and can articulate what the result of the project will be.
+<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, a list of feature names grouped by In Development, Planned, and Unplanned. The Roadmap shows to others inside and outside the project that you have thought through the major features and can articulate what the result of the project will be. As items move to "In Development", they should be completed in one development cycle. If they are larger than that, break the feature down into smaller parts.
 
 <a name="shared-vision"></a>**Shared Vision**–A common understanding of what is being created. A simple description or rough sketch of the project that should be repeatable and reproducible by the members of the team.
 
