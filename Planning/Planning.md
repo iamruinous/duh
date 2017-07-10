@@ -1,5 +1,5 @@
 # Simple Planning
-Version 1.0.0
+Version 1.0.1
 
 Effective planning happens along three time horizons: [short](#short-horizon), [medium](#medium-horizon), and [long](#long-horizon). The time scale is relative to the level of planning that is being done. Planning a portfolio of projects is a different scale than planning an individual product or project. There is some overlap amongst the horizons, however each one has distinct properties. Each horizon also has a corresponding artifact that is beneficial for all the other horizons.
 
@@ -16,7 +16,7 @@ Generating [shared vision](#user-content-shared-vision) from the [clearly define
 Artifact: [Roadmap](#user-content-roadmap), helps guide the Short Horizon and provides an information radiator to others outside the planning process.
 
 ## Long Horizon
-Generating [clearly defined goals](#user-content-clearly-defined-goals) from [fuzzy ideals](#user-contents-fuzzy-ideals).
+Generating [clearly defined goals](#user-content-clearly-defined-goals) from [fuzzy ideals](#user-content-fuzzy-ideals).
 
 Artifact: Project Overview, helps constrain the infinite possibilities and sets expectations.
 
