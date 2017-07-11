@@ -26,9 +26,11 @@ Artifact: Project Overview, helps constrain the infinite possibilities and sets 
 
 <a name="clearly-defined-goals"></a>**Clearly Defined Goals**–Defines how success is to be measured. Ideally should be be expressed as a pass/fail.
 
+<a name="estimated-completion-date"></a>**Estimated Completion Date**–An estimate of when all "In Development" and "Planned" features from the Roadmap will be completed.
+
 <a name="fuzzy-ideals"></a>**Fuzzy Ideals**–Things that the organization needs to accomplish to be successful.
 
-<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, an estimated completion date, a list of feature names grouped by In Development, Planned, and Unplanned. The Roadmap shows to others inside and outside the project that you have thought through the major features and can articulate what the result of the project will be. As items move to "In Development", they should be completed in one development cycle. If they are larger than that, break the feature down into smaller parts.
+<a name="roadmap"></a>**Roadmap**–A rough plan that outlines what is in development and planned for the Medium Horizon. Should contain a description of the end state, an [Estimated Completion Date](#user-content-estimated-completion-date), a list of feature names grouped by "In Development", "Planned", and "Unplanned". The Roadmap shows to others inside and outside the project that you have thought through the major features and can articulate what the result of the project will be. As items move to "In Development", they should be completed in one development cycle. If they are larger than that, break the feature down into smaller parts.
 
 <a name="shared-vision"></a>**Shared Vision**–A common understanding of what is being created. A simple description or rough sketch of the project that should be repeatable and reproducible by the members of the team.
 
