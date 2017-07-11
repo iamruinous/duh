@@ -1,7 +1,9 @@
 # Fresh Track
-Version 1.0.0
+Version 1.1.0
 
-Olu needs a new hit, badly. We are creating a certified :fire: track that will bring Olu back to the forefront of the music scene. 
+Olu needs a new hit, badly. We are creating a certified :fire: track that will bring Olu back to the forefront of the music scene.
+
+Estimated Completion: 2017-08-01
 
 ## In Development (week of 2017-07-10)
 * [x] Placeholder for synth lead (2017-07-11)
